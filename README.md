@@ -4,7 +4,7 @@ Proclub Teknofest 2018 submission repository for Programmer, you may alter/impro
 ## How to Submit your project
 1. Please Star this repository
 2. Make a new issue on this repository following [this template](https://github.com/helloproclub/Milk-Tea/issues/1)
-3. Assign [Lead Programmer/Blinfoldking](github.com/blinfoldking) as assignees to your issue 
+3. Assign [Lead Programmer/Blinfoldking](https://github.com/blinfoldking) as assignees to your issue 
 3. You can add your CV or other Portofolio either by uploading it in the same repo to your project or add a link to your CV and other Portofolio on your issue in this repository
 
 ### Example
@@ -22,6 +22,6 @@ Please include a documentation of your project atleast in form of a readme file 
 - The Readme should explain on how to run or build the project
 
 ## Further Question
-If you have any question regarding the submission you are welcome to ask in Telegram (The Teknofest Group) or you could just tag [me](github.com/Blinfoldking) in your submission issue
+If you have any question regarding the submission you are welcome to ask in Telegram (The Teknofest Group) or you could just tag [me](https://github.com/Blinfoldking) in your submission issue
 
 ## Good Luck and Happy Hacking :)
