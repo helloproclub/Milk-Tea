@@ -10,7 +10,7 @@ Proclub Teknofest 2018 submission repository for Programmer, you may alter/impro
 ### Example
 You can see it [here](https://github.com/helloproclub/Milk-Tea/issues/2)
 
-## Submition Criteria
+## Submission Criteria
 
 ### Project Criteria
 Please make sure that your project follow the rule and criteria explained in the [handbook](https://drive.google.com/file/d/1acTzougpw4bWsUXMXaHig40LELEF0_A6/view)
@@ -18,7 +18,7 @@ Please make sure that your project follow the rule and criteria explained in the
 ### Repository Criteria
 Please include a documentation of your project atleast in form of a readme file with the following conditions:
 - The Readme file should be in [markdown(.md)](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) format
-- The Readme should container a premise or a short description of your project
+- The Readme should contain a premise or a short description of your project
 - The Readme should explain on how to run or build the project
 
 ## Further Question
