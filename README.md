@@ -1,5 +1,5 @@
 # Milk-Tea
-Proclub Teknofest 2018 submission repository for Programmer, you may alter/improve your submission before 30th of November 2018
+Proclub Teknofest 2018 submission repository for Programmer, you may alter/improve your submission before 23.59pm 30th of November 2018
 
 ## How to Submit your project
 1. Please Star this repository
